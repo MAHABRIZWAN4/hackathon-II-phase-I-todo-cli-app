@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "speckitplus": {
+      "command": "node",
+      "args": ["${workspaceFolder}/mcp-server/dist/index.js"],
+      "env": {},
+      "disabled": false
+    }
+  }
+}
